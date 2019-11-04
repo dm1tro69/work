@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb06ce68-b1f6-4d21-9da0-417f11bee1e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/djinni.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jobs.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/jobs.html" afterDir="false" />
-    </list>
+    <list default="true" id="cb06ce68-b1f6-4d21-9da0-417f11bee1e7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/djinni.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+            <state relative-caret-position="312">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -42,10 +38,12 @@
         <entry file="file://$PROJECT_DIR$/src/jobs.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="107" lean-forward="true" selection-start-column="107" selection-end-column="107" />
+              <caret column="114" selection-start-column="114" selection-end-column="114" />
               <folding>
                 <element signature="e#8025#8030#0" expanded="true" />
                 <element signature="e#8149#8154#0" expanded="true" />
+                <element signature="e#13239#13244#0" expanded="true" />
+                <element signature="e#14653#14658#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -192,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572814223060</updated>
       <workItem from="1572814228245" duration="718000" />
-      <workItem from="1572870902023" duration="16274000" />
+      <workItem from="1572870902023" duration="16973000" />
     </task>
     <task id="LOCAL-00001" summary="work2">
       <created>1572894469493</created>
@@ -205,18 +203,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16992000" />
+    <option name="totallyTimeSpent" value="17691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1866" height="910" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11661166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32904884" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46770027" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15116279" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -225,7 +222,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32945737" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.17183463" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30749354" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -327,8 +324,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/djinni.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        <state relative-caret-position="312">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -338,10 +335,12 @@
     <entry file="file://$PROJECT_DIR$/src/jobs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="107" lean-forward="true" selection-start-column="107" selection-end-column="107" />
+          <caret column="114" selection-start-column="114" selection-end-column="114" />
           <folding>
             <element signature="e#8025#8030#0" expanded="true" />
             <element signature="e#8149#8154#0" expanded="true" />
+            <element signature="e#13239#13244#0" expanded="true" />
+            <element signature="e#14653#14658#0" expanded="true" />
           </folding>
         </state>
       </provider>
