@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8952ad48-09b2-4945-b659-292250575dd9" name="https://github.com/dm1tro69/work.git" url="http://https://github.com/dm1tro69/work.git">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
