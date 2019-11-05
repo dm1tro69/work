@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb06ce68-b1f6-4d21-9da0-417f11bee1e7" name="Default Changelist" comment="" />
+    <list default="true" id="cb06ce68-b1f6-4d21-9da0-417f11bee1e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jobs.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/jobs.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="48" lean-forward="true" selection-start-line="1" selection-end-line="59" selection-end-column="14" />
+            <state relative-caret-position="345">
+              <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
               <folding>
                 <element signature="e#39#52#0" expanded="true" />
               </folding>
@@ -25,8 +30,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/djinni.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="453">
+              <caret line="56" column="31" lean-forward="true" selection-end-line="63" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dou.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -35,16 +52,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/rab.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-696">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jobs.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="114" selection-start-column="114" selection-end-column="114" />
-              <folding>
-                <element signature="e#8025#8030#0" expanded="true" />
-                <element signature="e#8149#8154#0" expanded="true" />
-                <element signature="e#13239#13244#0" expanded="true" />
-                <element signature="e#14653#14658#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +90,8 @@
         <option value="$PROJECT_DIR$/src/.gitignor" />
         <option value="$PROJECT_DIR$/src/work.py" />
         <option value="$PROJECT_DIR$/src/djinni.py" />
+        <option value="$PROJECT_DIR$/src/dou.py" />
+        <option value="$PROJECT_DIR$/src/rab.py" />
       </list>
     </option>
   </component>
@@ -127,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.djinni">
+  <component name="RunManager" selected="Python.rab">
     <configuration name="djinni" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="rabota" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,6 +167,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/djinni.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rabota" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/dou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rab" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rabota" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/rab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,6 +243,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rab" />
+        <item itemvalue="Python.dou" />
         <item itemvalue="Python.djinni" />
         <item itemvalue="Python.work" />
       </list>
@@ -190,7 +261,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572814223060</updated>
       <workItem from="1572814228245" duration="718000" />
-      <workItem from="1572870902023" duration="16973000" />
+      <workItem from="1572870902023" duration="22986000" />
     </task>
     <task id="LOCAL-00001" summary="work2">
       <created>1572894469493</created>
@@ -203,17 +274,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17691000" />
+    <option name="totallyTimeSpent" value="23704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1866" height="910" extended-state="6" />
+    <frame x="0" y="27" width="1870" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11661166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11635565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32904884" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15116279" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2093784" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,7 +294,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32945737" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30749354" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30749354" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -265,6 +337,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="work2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rabota$dou.coverage" NAME="dou Coverage Results" MODIFIED="1572970408934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/rabota$rab.coverage" NAME="rab Coverage Results" MODIFIED="1572976035308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/rabota$work.coverage" NAME="work Coverage Results" MODIFIED="1572891659988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/rabota$djinni.coverage" NAME="djinni Coverage Results" MODIFIED="1572898319823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
@@ -314,18 +388,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="48" lean-forward="true" selection-start-line="1" selection-end-line="59" selection-end-column="14" />
+        <state relative-caret-position="345">
+          <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
           <folding>
             <element signature="e#39#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/dou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/djinni.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="453">
+          <caret line="56" column="31" lean-forward="true" selection-end-line="63" selection-end-column="14" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -336,11 +420,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="114" selection-start-column="114" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
-            <element signature="e#8025#8030#0" expanded="true" />
-            <element signature="e#8149#8154#0" expanded="true" />
-            <element signature="e#13239#13244#0" expanded="true" />
-            <element signature="e#14653#14658#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
